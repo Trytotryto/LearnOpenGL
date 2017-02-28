@@ -1,2 +1,2 @@
-# LearnOpenGL
-The repository contains the functions related in littleMesh
+# LittleFrame
+The repository contains the DGP's homework of trytotry.
