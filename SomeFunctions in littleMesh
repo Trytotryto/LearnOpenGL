@@ -1,7 +1,0 @@
-initializeGL()
-{
-   glEnable();
-   glHint();
-   glClearDepth();
-   SetLight();
-}
